@@ -1,0 +1,45 @@
+.content {
+    margin: 50px auto;
+    width: 95%;
+  }
+  .home {
+    width: 100%;
+    margin: 0px auto;
+    padding-top: 5px;
+    text-align: center;
+  }
+  
+  .login {
+    width: 70%;
+    height: 100%;
+    margin: 60px auto;
+    text-align: center;
+    padding: 5px;
+    border: 8px double rgb(4, 0, 255);
+  }
+  .registry {
+    margin: 0px auto;
+    width: 70%;
+    border: 12px double rgb(72, 255, 0);
+    padding: 15px;
+  }
+  
+  .content-error{
+    margin: 60px auto;
+    text-align: center;
+  }
+  
+  /* .component h3,
+    .state h4,
+    .first,
+    .refs,
+    .error {
+      text-align: center;
+    } */
+  
+  /* .refs ol,
+    .refs ul,
+    .refs span {
+      text-align: left;
+    } */
+  
